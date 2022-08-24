@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/AlbertArakelyan/demo-package/issues"
   },
+  "publishConfig": {
+    "@albertarakelyan:registry": "https://npm.pkg.github.com"
+  },
   "homepage": "https://github.com/AlbertArakelyan/demo-package#readme"
 }
